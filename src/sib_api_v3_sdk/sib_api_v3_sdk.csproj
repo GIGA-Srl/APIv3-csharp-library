@@ -19,6 +19,9 @@
     <PackageProjectUrl>https://github.com/sendinblue/APIv3-csharp-library</PackageProjectUrl>
     <RepositoryUrl>https://github.com/sendinblue/APIv3-csharp-library</RepositoryUrl>
     <PackageTags>sdk, api, swagger, csharp, c#, .net, sendinblue</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>sib_api_v3_sdk.pfx</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
   </PropertyGroup>
 
   <ItemGroup>

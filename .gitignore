@@ -72,6 +72,7 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+.vs
 
 # Guidance Automation Toolkit
 *.gpState
@@ -125,7 +126,7 @@ ClientBin/
 *~
 *.dbmdl
 *.[Pp]ublish.xml
-*.pfx
+#*.pfx
 *.publishsettings
 modulesbin/
 tempbin/
